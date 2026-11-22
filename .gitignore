@@ -1,0 +1,9 @@
+# Executáveis gerados pelo go build
+*.exe
+aulas/aula01/ola
+aulas/aula01/aula01
+aulas/aula11/tarefas
+aulas/aula11/tarefas.json
+
+# Arquivo que o Mac cria sozinho nas pastas
+.DS_Store
